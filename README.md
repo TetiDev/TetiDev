@@ -1,23 +1,10 @@
 ## Hi there 👋 I'm Tetiana
 
-## <span class="wave">I'm FullStack Developer</span>
+## I'm FullStack Developer
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 - 🚀 0Excellent problem-solving abilities and a detail-oriented mindset
-
-<style>
-@keyframes wave-animation {
-  0% { opacity: 1; }
-  50% { opacity: 0.5; }
-  100% { opacity: 1; }
-}
-
-.wave {
-  display: inline-block;
-  animation: wave-animation 2s infinite;
-}
-</style>
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" width="30px" />
