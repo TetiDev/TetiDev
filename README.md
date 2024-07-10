@@ -28,10 +28,9 @@
 <br />
 <details>
   <summary>⚡ Statistics:</summary>
-   <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TetiDev&langs_count=8&layout=compact" />
+    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TetiDev&langs_count=8&layout=compact" />
     <br />
     <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TetiDev&show_icons=true&hide=contribs,prs,issues" />
-  <br />
 </details>
 
 <br />
