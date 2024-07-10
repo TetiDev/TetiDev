@@ -4,7 +4,7 @@
 
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
-- 🚀 0Excellent problem-solving abilities and a detail-oriented mindset
+- 🚀 Excellent problem-solving abilities and a detail-oriented mindset
 
 ### 🧰 Languages and Tools:
 <img align="left" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" width="30px" />
@@ -30,10 +30,11 @@
   <summary>⚡ Statistics:</summary>
    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TetiDev&langs_count=8&layout=compact" />
     <br />
-
-[//]: # (    <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TetiDev&show_icons=true" />)
+    <img align="left" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=TetiDev&show_icons=true&hide=contribs,prs,issues" />
+  <br />
 </details>
 
+<br />
 <br />
 
 ![](https://komarev.com/ghpvc/?username=TetiDev)
