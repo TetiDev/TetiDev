@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Tetiana
 
+<div id="header" align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3RxZW1vMW52eDlscmEzYnhxYmhsYWw5dmZjbW15ZXd3cnh1cXplMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="300"/>
+</div>
+
 ## I'm FullStack Developer
 
 - 💪 I like to write code
